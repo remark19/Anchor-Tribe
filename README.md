@@ -1,5 +1,4 @@
 # Anchor-Tribe
-https://anchorandtribe.vercel.app/
 
 Escape Algorithmic Noise. Build Real Consistency with Your Tribe.
 
